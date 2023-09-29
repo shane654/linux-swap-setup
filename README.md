@@ -11,16 +11,11 @@
 
 ### 使用方法
 
-#### 1. 下载脚本
-
 ```bash
 bash <(wget -qO- https://github.com/shane654/linux-swap-setup/raw/main/swap_setup.sh)
 ```
 
 ### 注意
 
-请确保您有足够的磁盘空间来创建swap文件。
+请确保有足够的磁盘空间来创建swap文件。
 
----
-
-您只需将上述内容保存为`README.md`文件，并上传到您的GitHub仓库中。记得替换链接中的`your_username`和`your_repository`为您的GitHub用户名和仓库名称。

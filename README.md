@@ -12,7 +12,7 @@
 ### 使用方法
 
 ```bash
-bash <(wget -qO- https://github.com/shane654/linux-swap-setup/raw/main/swap_setup.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/shane654/linux-swap-setup/main/setup_swap.sh)
 ```
 
 ### 注意
